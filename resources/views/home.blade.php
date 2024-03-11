@@ -42,10 +42,10 @@
             @endforeach
         </select>
         </br>
-
         <label for="car_model">Car Model:</label>
         <input type="text" name="car_model" required></br>
         <label for="plate">Car Plate:</label>
+{{--                    test for gitcommit--}}
         <input type="text" name="plate" required></br>
         <button type="submit" class="submit2">Add Car</button>
     </form>
