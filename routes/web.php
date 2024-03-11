@@ -10,7 +10,7 @@ use \App\Http\Controllers\PostController;
 Route::get('/', function () {
     return view('welcome');
 });
-
+// tetschange
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
