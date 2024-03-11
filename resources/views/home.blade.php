@@ -42,6 +42,7 @@
             @endforeach
         </select>
         </br>
+{{--                    fdjkh kjdhf d--}}
         <label for="car_model">Car Model:</label>
         <input type="text" name="car_model" required></br>
         <label for="plate">Car Plate:</label>
